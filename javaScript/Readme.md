@@ -1,0 +1,2 @@
+- _Converting object to string_ - which to choose toSting and JSON.stringify
+- indexOf() method and corner cases
